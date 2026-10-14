@@ -1,0 +1,63 @@
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.smoke-yuliao-*/
+.coverage
+htmlcov/
+
+# Build outputs (deliver separately, never commit personal data with them)
+build/
+dist/
+dist-*/
+build-*/
+releases/
+*.spec
+*.zip
+*.exe
+
+# Local configuration, caches, original wallpaper backups, and selected images
+# Runtime data belongs in %LOCALAPPDATA%/YuliaoWallpaper, outside source control.
+data/
+cache/
+backups/
+private/
+user_data/
+local_images/
+albums/
+logs/
+*.log
+*.sqlite
+*.sqlite3
+*.db
+config.json
+config.pre-*.json
+config.corrupt-*.json
+*导出清单*.json
+*导出清单*.md
+state.json
+original_wallpaper*
+.env
+.env.*
+!.env.example
+
+# Editor and OS state
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+.DS_Store
+# Temporary UI checks contain only generated demo data.
+.smoke-*/
+.test-*/
+test-results.txt
+build-summary.txt
+publication/
+!third_party/pystray-0.19.5/upstream-source.zip
+publish-ready/
+publish-build/
+publish-artifacts/
+github-public-status.json

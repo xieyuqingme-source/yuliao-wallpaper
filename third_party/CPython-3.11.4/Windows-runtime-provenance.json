@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "runtime_version": "3.11.4",
+  "files": [
+    {
+      "filename": "python311.dll",
+      "bytes": 5762840,
+      "sha256": "a811c7516f531f1515d10743ae78004dd627eba0dc2d3bc0d2e033b2722043ce",
+      "source": "CPython 3.11.4 Windows installation (no local absolute path recorded)",
+      "development_bundle_same_bytes": true
+    },
+    {
+      "filename": "vcruntime140.dll",
+      "bytes": 109392,
+      "sha256": "a8f950b4357ec12cfccddc9094cca56a3d5244b95e09ea6e9a746489f2d58736",
+      "source": "CPython 3.11.4 Windows installation (no local absolute path recorded)",
+      "development_bundle_same_bytes": true
+    },
+    {
+      "filename": "libcrypto-1_1.dll",
+      "bytes": 3445016,
+      "sha256": "f20eb4efd8647b5273fdaafceb8ccb2b8ba5329665878e01986cbfc1e6832c44",
+      "source": "CPython 3.11.4 Windows installation (no local absolute path recorded)",
+      "development_bundle_same_bytes": true
+    },
+    {
+      "filename": "libssl-1_1.dll",
+      "bytes": 704792,
+      "sha256": "c8f7237e7040a73c2bea567acc9cec373aadd48654aaac6122416e160f08ca13",
+      "source": "CPython 3.11.4 Windows installation (no local absolute path recorded)",
+      "development_bundle_same_bytes": true
+    },
+    {
+      "filename": "libffi-8.dll",
+      "bytes": 39696,
+      "sha256": "eff52743773eb550fcc6ce3efc37c85724502233b6b002a35496d828bd7b280a",
+      "source": "CPython 3.11.4 Windows installation (no local absolute path recorded)",
+      "development_bundle_same_bytes": true
+    }
+  ],
+  "scope": "Content equality/source evidence only; not a blanket Microsoft redistribution-license determination"
+}

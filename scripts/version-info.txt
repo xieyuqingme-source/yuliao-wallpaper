@@ -1,0 +1,21 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(0, 2, 0, 0), prodvers=(0, 2, 0, 0), mask=0x3f,
+    flags=0x2, OS=0x40004, fileType=0x1, subtype=0x0, date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo([
+      StringTable('040904b0', [
+        StringStruct('CompanyName', 'Yuliao Wallpaper contributors'),
+        StringStruct('FileDescription', 'Yuliao Wallpaper 0.2.0 test release'),
+        StringStruct('FileVersion', '0.2.0.0'),
+        StringStruct('InternalName', 'YuliaoWallpaper'),
+        StringStruct('LegalCopyright', 'Copyright (c) 2026 Yuliao Wallpaper contributors'),
+        StringStruct('OriginalFilename', 'YuliaoWallpaper.exe'),
+        StringStruct('ProductName', 'Yuliao Wallpaper'),
+        StringStruct('ProductVersion', '0.2.0 prerelease')
+      ])
+    ]),
+    VarFileInfo([VarStruct('Translation', [1033, 1200])])
+  ]
+)

@@ -1,0 +1,5 @@
+# Runtime dependencies, verified against official PyPI on 2026-10-14.
+# The application is designed for Windows. Tkinter is included with full CPython.
+Pillow==12.3.0
+pystray==0.19.5
+six==1.17.0

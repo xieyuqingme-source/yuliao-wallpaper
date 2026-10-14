@@ -1,0 +1,153 @@
+{
+  "archive_sha256": "4751562ba90301e054c87606079c1599301d84e7d1e4074b12af4f54a80a4768",
+  "source_url": "https://codeload.github.com/moses-palmer/pystray/zip/1907f8681d6d421517c63d94f425f9cdd74d0034",
+  "resolved_commit": "1907f8681d6d421517c63d94f425f9cdd74d0034",
+  "expanded_bytes": 187244,
+  "files": [
+    {
+      "path": "pystray-0.19.5/upstream/.gitignore",
+      "bytes": 55,
+      "sha256": "4545483131a2273be1dfe191ea02808d64d005af05e4d85fdfd31c563ab3bd15"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/CHANGES.rst",
+      "bytes": 8394,
+      "sha256": "d24346e0c2a427e335cb75ddf93b2d8b037e1b9b41a5135d2d39369b6e1d4146"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/COPYING",
+      "bytes": 35152,
+      "sha256": "1e4d0c2eb111b851de12d7b2737195b950fae3620d2a23a474ce8d46e1d2e4b6"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/COPYING.LGPL",
+      "bytes": 7656,
+      "sha256": "e583ee8a64cd2ae744422bf76a1295838acae3698347f3a2af07462ddfaf0d2d"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/README.rst",
+      "bytes": 294,
+      "sha256": "7a37301fafc100f2e322d69aa476b077f2ffc65d908bd5a79464eff9e7a5c603"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/docs/conf.py",
+      "bytes": 2024,
+      "sha256": "6ae68cf3e8a03eb8c62183c6a4a536ecd976273bd071a287af4c55855d8deaea"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/docs/faq.rst",
+      "bytes": 1892,
+      "sha256": "25d4e93f32fa82badbd3142b398fcc569c426950af2e897dfb10bbc76d13666a"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/docs/index.rst",
+      "bytes": 437,
+      "sha256": "0d3c25df01e8108600a0f5aeaed1c14a2420d007791f37531601c3cb1a7a639d"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/docs/reference.rst",
+      "bytes": 155,
+      "sha256": "b51f85301079587e62130a74b660bccad0a3fcc85e25979c5f4069143370fdf3"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/docs/usage.rst",
+      "bytes": 10057,
+      "sha256": "d67b71365b2f9089a6789b2be8bfddceb8060f9a7dcdd2f194821de581bb8df2"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/lib/pystray/__init__.py",
+      "bytes": 2108,
+      "sha256": "c8e2b76aef6862992334eca1cc88b319b70db64dc9a391ea41c55a675c1fc20d"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/lib/pystray/_appindicator.py",
+      "bytes": 3217,
+      "sha256": "538439ba1f43967845690a6d50941407a9d19bee3915664a5e552fbcab755f36"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/lib/pystray/_base.py",
+      "bytes": 21068,
+      "sha256": "d964e3ae1f62238cdc96411491ad8b2844690523f1ac9ef68bfa2d3376f22b7e"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/lib/pystray/_darwin.py",
+      "bytes": 8899,
+      "sha256": "fdc51dfe2bbdce148dc4d111644f3b7c0a437f5ffcfb77fb5acadc36b86bea3a"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/lib/pystray/_dummy.py",
+      "bytes": 866,
+      "sha256": "61cf5fc0f443692d9e29a6368d4b320757fb4a6a0601be5f46bcb9d06ca20f0c"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/lib/pystray/_gtk.py",
+      "bytes": 2360,
+      "sha256": "a38d619ad380bfd0dfe35ed4dcf946e2de2fe09264617fddca8088f2c5426060"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/lib/pystray/_info.py",
+      "bytes": 776,
+      "sha256": "c7974beafe3d59822362f2b71f18d336d4a580826936e6382f2997198de32200"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/lib/pystray/_util/__init__.py",
+      "bytes": 1589,
+      "sha256": "441f5b187d0ce1a6fc1f25f26cf384835688c3763f4dfa2e1753d65737ff84c6"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/lib/pystray/_util/gtk.py",
+      "bytes": 5519,
+      "sha256": "eeaba1b86131fe48a10f1ac1af8fcf29fb57fd49ab65fb1f42ac1c8e45e359b2"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/lib/pystray/_util/notify_dbus.py",
+      "bytes": 2850,
+      "sha256": "7df75ffbc11ba85c372670501154f98c9a8a1c207d938009e3654553982f4835"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/lib/pystray/_util/win32.py",
+      "bytes": 10087,
+      "sha256": "4a3c2d0c81040632f2fb1777644ba8214d58eec1861343a8ce2ca205366d3dff"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/lib/pystray/_win32.py",
+      "bytes": 13449,
+      "sha256": "de4a968ac1cd519291fde5b13716446a8e5bd8805ab4d9e428ea2e3d66f37fb5"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/lib/pystray/_xorg.py",
+      "bytes": 15236,
+      "sha256": "01d5a1e99a9611986aa91add5dce60a30adddd01210d7bbdc4741764a1b74dda"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/setup.cfg",
+      "bytes": 145,
+      "sha256": "ef3164cbbc358b370a18e0945f6c488576ea049d6ae8389a4b1987979b7436d8"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/setup.py",
+      "bytes": 2948,
+      "sha256": "5ef8e915dcc4a0e14c9f9957630269287ba6443be8d2bdb78b8abefd7df77eb8"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/tests/__init__.py",
+      "bytes": 3703,
+      "sha256": "d8ef32a25c9361bcfc67a28f2c279261314216f85fb067713cad81b6b83971f2"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/tests/icon_tests.py",
+      "bytes": 13448,
+      "sha256": "69c587d3f909b28d68a6331ce802b9092e95b25c6e349103eecee33b480f2d93"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/tests/menu_descriptor_tests.py",
+      "bytes": 6474,
+      "sha256": "a8bfcffa0ef8ee031966371ac657d4b3705355389e8e780d6a1eac4400f963cb"
+    },
+    {
+      "path": "pystray-0.19.5/upstream/tools/make-release.py",
+      "bytes": 6386,
+      "sha256": "febcdf0e31471576c959299853b72d02131c1aa4873c5a8742cf386642d1862c"
+    }
+  ]
+}

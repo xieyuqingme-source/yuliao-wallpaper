@@ -1,0 +1,221 @@
+{
+  "schema": 1,
+  "collected_utc": "2026-10-14T12:53:03Z",
+  "download_limits": {
+    "text_bytes": 1048576,
+    "archive_bytes": 10485760,
+    "expanded_bytes": 20971520,
+    "archive_members": 1000
+  },
+  "records": [
+    {
+      "path": "CPython-3.11.4/INCORPORATED-LICENSES.rst",
+      "bytes": 48910,
+      "sha256": "4d6119c3d88da68c95cf4d61683e327758074d32ff205651254369481fd76bd7",
+      "source_url": "https://raw.githubusercontent.com/python/cpython/d2340ef25721b6a72d45d4508c672c4be38c67d3/Doc/license.rst",
+      "upstream_ref": "v3.11.4",
+      "resolved_commit": "d2340ef25721b6a72d45d4508c672c4be38c67d3",
+      "note": "Unmodified upstream file"
+    },
+    {
+      "path": "Expat-CPython-3.11.4/COPYING",
+      "bytes": 1144,
+      "sha256": "122f2c27000472a201d337b9b31f7eb2b52d091b02857061a8880371612d9534",
+      "source_url": "https://raw.githubusercontent.com/python/cpython/d2340ef25721b6a72d45d4508c672c4be38c67d3/Modules/expat/COPYING",
+      "upstream_ref": "v3.11.4",
+      "resolved_commit": "d2340ef25721b6a72d45d4508c672c4be38c67d3",
+      "note": "Unmodified upstream file"
+    },
+    {
+      "path": "CPython-3.11.4/libmpdec-mpdecimal.c",
+      "bytes": 247181,
+      "sha256": "c68ed56046fffe540273d772926764e3eb5599f58a58419a67eb33fdae61d3ad",
+      "source_url": "https://raw.githubusercontent.com/python/cpython/d2340ef25721b6a72d45d4508c672c4be38c67d3/Modules/_decimal/libmpdec/mpdecimal.c",
+      "upstream_ref": "v3.11.4",
+      "resolved_commit": "d2340ef25721b6a72d45d4508c672c4be38c67d3",
+      "note": "Unmodified upstream file"
+    },
+    {
+      "path": "CPython-3.11.4/libmpdec-LICENSE.txt",
+      "bytes": 1359,
+      "sha256": "b07528d8b1dbf1e2d2741052996f0876e23342ce2d30d0effa39c5457716c25a",
+      "source_url": "https://raw.githubusercontent.com/python/cpython/d2340ef25721b6a72d45d4508c672c4be38c67d3/Modules/_decimal/libmpdec/mpdecimal.c",
+      "upstream_ref": "v3.11.4",
+      "resolved_commit": "d2340ef25721b6a72d45d4508c672c4be38c67d3",
+      "note": "Complete initial copyright/license comment extracted verbatim from mpdecimal.c; full source file also provided"
+    },
+    {
+      "path": "Tcl-8.6.12.1/license.terms",
+      "bytes": 2255,
+      "sha256": "c0a69a2bfd757361ec7e6143973b103c90409316b49e9c88db26ad6388e79f16",
+      "source_url": "https://raw.githubusercontent.com/python/cpython-source-deps/tcl-core-8.6.12.1/license.terms",
+      "upstream_ref": "tcl-core-8.6.12.1",
+      "resolved_commit": null,
+      "note": "Unmodified upstream file; immutable Git blob content verified against saved SHA-256; version ref retained as provenance",
+      "immutable_source_url": "https://api.github.com/repos/python/cpython-source-deps/git/blobs/d8049cd9e7ca055f7e584a76f88861a294b30c9c",
+      "git_blob_sha1": "d8049cd9e7ca055f7e584a76f88861a294b30c9c"
+    },
+    {
+      "path": "Tk-8.6.12.1/license.terms",
+      "bytes": 2267,
+      "sha256": "2cde822b93ca16ae535c954b7dfe658b4ad10df2a193628d1b358f1765e8b198",
+      "source_url": "https://raw.githubusercontent.com/python/cpython-source-deps/tk-8.6.12.1/license.terms",
+      "upstream_ref": "tk-8.6.12.1",
+      "resolved_commit": null,
+      "note": "Unmodified upstream file; immutable Git blob content verified against saved SHA-256; version ref retained as provenance",
+      "immutable_source_url": "https://api.github.com/repos/python/cpython-source-deps/git/blobs/01264352c87ca7e34771bd1ee18bed5201ef139f",
+      "git_blob_sha1": "01264352c87ca7e34771bd1ee18bed5201ef139f"
+    },
+    {
+      "path": "XZ-5.2.5/COPYING",
+      "bytes": 2775,
+      "sha256": "bcb02973ef6e87ea73d331b3a80df7748407f17efdb784b61b47e0e610d3bb5c",
+      "source_url": "https://raw.githubusercontent.com/python/cpython-source-deps/xz-5.2.5/COPYING",
+      "upstream_ref": "xz-5.2.5",
+      "resolved_commit": null,
+      "note": "Unmodified upstream file; immutable Git blob content verified against saved SHA-256; version ref retained as provenance",
+      "immutable_source_url": "https://api.github.com/repos/python/cpython-source-deps/git/blobs/20e60d5b2427334e1fec6701e7c5ad0da0bc8a5d",
+      "git_blob_sha1": "20e60d5b2427334e1fec6701e7c5ad0da0bc8a5d"
+    },
+    {
+      "path": "libffi-3.4.4/LICENSE",
+      "bytes": 1132,
+      "sha256": "2c9c2acb9743e6b007b91350475308aee44691d96aa20eacef8e199988c8c388",
+      "source_url": "https://raw.githubusercontent.com/python/cpython-source-deps/libffi-3.4.4/LICENSE",
+      "upstream_ref": "libffi-3.4.4",
+      "resolved_commit": null,
+      "note": "Unmodified upstream file; immutable Git blob content verified against saved SHA-256; version ref retained as provenance",
+      "immutable_source_url": "https://api.github.com/repos/python/cpython-source-deps/git/blobs/75d1bce11f9118ccfd96b24a2e49af078da1b469",
+      "git_blob_sha1": "75d1bce11f9118ccfd96b24a2e49af078da1b469"
+    },
+    {
+      "path": "OpenSSL-1.1.1u/LICENSE",
+      "bytes": 6121,
+      "sha256": "c32913b33252e71190af2066f08115c69bc9fddadf3bf29296e20c835389841c",
+      "source_url": "https://raw.githubusercontent.com/openssl/openssl/70c2912f635aac8ab28629a2b5ea0c09740d2bda/LICENSE",
+      "upstream_ref": "OpenSSL_1_1_1u",
+      "resolved_commit": "70c2912f635aac8ab28629a2b5ea0c09740d2bda",
+      "note": "Unmodified upstream file"
+    },
+    {
+      "path": "PyInstaller-6.22.3/Apache-2.0.txt",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "source_url": "https://raw.githubusercontent.com/apache/.github/66951150d5f712b03655139a4383a08b9b0cb2c6/LICENSE",
+      "upstream_ref": "main",
+      "resolved_commit": "66951150d5f712b03655139a4383a08b9b0cb2c6",
+      "note": "Unmodified upstream file"
+    },
+    {
+      "path": "PyInstaller-6.22.3/COPYING.txt",
+      "bytes": 32604,
+      "sha256": "0598064c7d2718e38d7914a7d08343b2fa008e3bea9ebba2aa7a6ffa5900dd64",
+      "source_url": "https://raw.githubusercontent.com/pyinstaller/pyinstaller/ecd7993d65c43b254f4e3f718e36d5b4a70a3ed5/COPYING.txt",
+      "upstream_ref": "v6.22.3",
+      "resolved_commit": "ecd7993d65c43b254f4e3f718e36d5b4a70a3ed5",
+      "note": "Unmodified upstream file"
+    },
+    {
+      "path": "pystray-0.19.5/upstream-source.zip",
+      "bytes": 68171,
+      "sha256": "4751562ba90301e054c87606079c1599301d84e7d1e4074b12af4f54a80a4768",
+      "source_url": "https://codeload.github.com/moses-palmer/pystray/zip/1907f8681d6d421517c63d94f425f9cdd74d0034",
+      "upstream_ref": "v0.19.5",
+      "resolved_commit": "1907f8681d6d421517c63d94f425f9cdd74d0034",
+      "note": "Unmodified upstream file"
+    },
+    {
+      "path": "CPython-LICENSE.txt",
+      "bytes": 32768,
+      "sha256": "616fa565945eca2f0e0a5440b3973fed7d5291622b90849212077fe68e27dcb0",
+      "source_url": "https://www.python.org/downloads/release/python-3114/",
+      "provenance": "CPython 3.11.4 Windows installation LICENSE.txt; full Windows redistribution conditions retained",
+      "kind": "installed_unmodified_notice"
+    },
+    {
+      "path": "Pillow-12.3.0/LICENSE",
+      "bytes": 78016,
+      "sha256": "4f7866a74802c6326f81faff59a56546b6aec2b10b91973e0e9308de95e79857",
+      "source_url": "https://pypi.org/project/Pillow/12.3.0/",
+      "provenance": "Unmodified Pillow 12.3.0 Windows wheel aggregate LICENSE",
+      "kind": "installed_unmodified_notice"
+    },
+    {
+      "path": "six-1.17.0/LICENSE",
+      "bytes": 1066,
+      "sha256": "4375ba20e2b9c6c4e7cad2940a628fd90e95cc3d50ee92aae755715d8ba1fbd0",
+      "source_url": "https://pypi.org/project/six/1.17.0/",
+      "provenance": "Unmodified six 1.17.0 wheel LICENSE",
+      "kind": "installed_unmodified_notice"
+    },
+    {
+      "path": "pystray-0.19.5/COPYING",
+      "bytes": 35152,
+      "sha256": "1e4d0c2eb111b851de12d7b2737195b950fae3620d2a23a474ce8d46e1d2e4b6",
+      "source_url": "https://raw.githubusercontent.com/moses-palmer/pystray/1907f8681d6d421517c63d94f425f9cdd74d0034/COPYING",
+      "provenance": "Unmodified pystray 0.19.5 GNU GPL license",
+      "kind": "installed_unmodified_notice"
+    },
+    {
+      "path": "pystray-0.19.5/COPYING.LGPL",
+      "bytes": 7656,
+      "sha256": "e583ee8a64cd2ae744422bf76a1295838acae3698347f3a2af07462ddfaf0d2d",
+      "source_url": "https://raw.githubusercontent.com/moses-palmer/pystray/1907f8681d6d421517c63d94f425f9cdd74d0034/COPYING.LGPL",
+      "provenance": "Unmodified pystray 0.19.5 GNU LGPL license",
+      "kind": "installed_unmodified_notice"
+    },
+    {
+      "path": "tk8.6-license.terms",
+      "bytes": 2307,
+      "sha256": "0d1e4405f6273f091732764ed89b57066be63ce64869be6c71ea337dc4f2f9b5",
+      "source_url": "https://raw.githubusercontent.com/python/cpython-source-deps/tk-8.6.12.1/license.terms",
+      "provenance": "Unmodified license.terms from CPython Windows Tk installation; original line endings retained",
+      "kind": "installed_unmodified_notice"
+    },
+    {
+      "path": "CPython-3.11.4/Windows-REDISTRIBUTION.txt",
+      "bytes": 1772,
+      "sha256": "7f11e3737b50711d2504fca459b036b0f68173d750a4dca0b1453c81ee5dc7a3",
+      "source_path": "CPython-LICENSE.txt",
+      "source_sha256": "616fa565945eca2f0e0a5440b3973fed7d5291622b90849212077fe68e27dcb0",
+      "note": "Complete Windows additional conditions section extracted; original full license remains alongside",
+      "kind": "derived_notice"
+    }
+  ],
+  "errors": [],
+  "resolution_history": [
+    {
+      "step": "commit_resolution",
+      "repo": "python/cpython-source-deps",
+      "ref": "tcl-core-8.6.12.1",
+      "error": "HTTPError"
+    },
+    {
+      "step": "commit_resolution",
+      "repo": "python/cpython-source-deps",
+      "ref": "tk-8.6.12.1",
+      "error": "HTTPError"
+    },
+    {
+      "step": "commit_resolution",
+      "repo": "python/cpython-source-deps",
+      "ref": "xz-5.2.5",
+      "error": "HTTPError"
+    },
+    {
+      "step": "commit_resolution",
+      "repo": "python/cpython-source-deps",
+      "ref": "libffi-3.4.4",
+      "error": "HTTPError"
+    }
+  ],
+  "pinning_summary": {
+    "commit_or_blob_pinned": 12,
+    "records": 12
+  },
+  "pystray_package_validation": {
+    "python_modules": 13,
+    "installed_copy_equals_commit_source": true,
+    "commit": "1907f8681d6d421517c63d94f425f9cdd74d0034"
+  }
+}
